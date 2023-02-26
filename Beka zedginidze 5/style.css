@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    column-gap: 488px;
+    padding: 100px;
+}
+
